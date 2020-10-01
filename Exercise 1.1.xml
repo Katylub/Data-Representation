@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Library> 
+    <Technical_Books>
+        <Book category="Technical_Books"> 
+            <ISBN>978-93-8067-432-2</ISBN> 
+            <title>Client Server Computing</title> 
+            <author>Lalit Kumar</author> 
+        </Book>
+        <Book category="Technical_Books"> 
+            <ISBN>978-93-5163-389-1</ISBN> 
+            <title>Data Structure Using C</title> 
+            <author>Sharad Verma</author> 
+        </Book> 
+    </Technical_Books>
+    <Cookery_Books>
+        <Book category="Cookery_Books"> 
+            <ISBN>978-19-0939-785-9</ISBN> 
+            <title>Good Housekeeping Cookery Book</title> 
+            <author>Alain Walls</author> 
+        </Book> 
+        <Book category="Cookery_Books"> 
+            <ISBN>978-19-0844-932-0</ISBN> 
+            <title>Cooking Style</title> 
+            <author>Katy Lub</author> 
+        </Book> 
+    </Cookery_Books>
+</Library> 
